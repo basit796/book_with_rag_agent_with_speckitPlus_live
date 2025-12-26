@@ -1,0 +1,118 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/book_with_rag_agent_with_speckitPlus_live/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/book_with_rag_agent_with_speckitPlus_live/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "how-to-use",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/how-to-use",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-physical-ai/physical-constraints",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-1-physical-ai/physical-constraints",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-physical-ai/robot-architecture",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-1-physical-ai/robot-architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-physical-ai/what-is-physical-ai",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-1-physical-ai/what-is-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-physical-ai/why-humanoids",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-1-physical-ai/why-humanoids",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-ros2/architecture",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-2-ros2/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-ros2/communication-patterns",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-2-ros2/communication-patterns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-ros2/python-integration",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-2-ros2/python-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-ros2/why-middleware",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-2-ros2/why-middleware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-simulation/physics-digital-twins",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-3-simulation/physics-digital-twins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-simulation/simulated-sensors",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-3-simulation/simulated-sensors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-simulation/tools-landscape",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-3-simulation/tools-landscape",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-simulation/why-simulation-first",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-3-simulation/why-simulation-first",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-isaac/isaac-ros-pipelines",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-4-isaac/isaac-ros-pipelines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-isaac/isaac-sim-overview",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-4-isaac/isaac-sim-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-isaac/mapping-navigation",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-4-isaac/mapping-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-isaac/why-better-simulation",
+              "path": "/book_with_rag_agent_with_speckitPlus_live/docs/module-4-isaac/why-better-simulation",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/book_with_rag_agent_with_speckitPlus_live/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

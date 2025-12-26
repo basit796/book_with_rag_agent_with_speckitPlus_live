@@ -1,0 +1,20 @@
+{
+  "defaultLocale": "en",
+  "locales": [
+    "en"
+  ],
+  "path": "i18n",
+  "currentLocale": "en",
+  "localeConfigs": {
+    "en": {
+      "label": "English",
+      "direction": "ltr",
+      "htmlLang": "en",
+      "calendar": "gregory",
+      "path": "en",
+      "translate": false,
+      "url": "https://basit796.github.io",
+      "baseUrl": "/book_with_rag_agent_with_speckitPlus_live/"
+    }
+  }
+}

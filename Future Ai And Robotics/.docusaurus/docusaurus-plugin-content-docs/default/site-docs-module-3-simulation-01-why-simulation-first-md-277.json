@@ -1,0 +1,28 @@
+{
+  "id": "module-3-simulation/why-simulation-first",
+  "title": "Why Simulation Comes First",
+  "description": "Overview",
+  "source": "@site/docs/module-3-simulation/01-why-simulation-first.md",
+  "sourceDirName": "module-3-simulation",
+  "slug": "/module-3-simulation/why-simulation-first",
+  "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-3-simulation/why-simulation-first",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-3-simulation/01-why-simulation-first.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Why Simulation Comes First"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python Agents and ROS",
+    "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-2-ros2/python-integration"
+  },
+  "next": {
+    "title": "Physics Engines and Digital Twins",
+    "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-3-simulation/physics-digital-twins"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-1-physical-ai/robot-architecture",
+  "title": "Anatomy of a Robot",
+  "description": "Overview",
+  "source": "@site/docs/module-1-physical-ai/03-robot-architecture.md",
+  "sourceDirName": "module-1-physical-ai",
+  "slug": "/module-1-physical-ai/robot-architecture",
+  "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-1-physical-ai/robot-architecture",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-physical-ai/03-robot-architecture.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Anatomy of a Robot"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Physical World as a Constraint",
+    "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-1-physical-ai/physical-constraints"
+  },
+  "next": {
+    "title": "Why Humanoids?",
+    "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-1-physical-ai/why-humanoids"
+  }
+}

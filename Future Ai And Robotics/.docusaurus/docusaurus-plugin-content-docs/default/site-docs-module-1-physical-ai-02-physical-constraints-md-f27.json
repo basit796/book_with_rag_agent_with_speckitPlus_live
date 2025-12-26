@@ -1,0 +1,28 @@
+{
+  "id": "module-1-physical-ai/physical-constraints",
+  "title": "The Physical World as a Constraint",
+  "description": "Overview",
+  "source": "@site/docs/module-1-physical-ai/02-physical-constraints.md",
+  "sourceDirName": "module-1-physical-ai",
+  "slug": "/module-1-physical-ai/physical-constraints",
+  "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-1-physical-ai/physical-constraints",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-1-physical-ai/02-physical-constraints.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "The Physical World as a Constraint"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is Physical AI?",
+    "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-1-physical-ai/what-is-physical-ai"
+  },
+  "next": {
+    "title": "Anatomy of a Robot",
+    "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-1-physical-ai/robot-architecture"
+  }
+}

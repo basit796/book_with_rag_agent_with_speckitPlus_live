@@ -1,0 +1,28 @@
+{
+  "id": "module-2-ros2/python-integration",
+  "title": "Python Agents and ROS",
+  "description": "Overview",
+  "source": "@site/docs/module-2-ros2/04-python-integration.md",
+  "sourceDirName": "module-2-ros2",
+  "slug": "/module-2-ros2/python-integration",
+  "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-2-ros2/python-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module-2-ros2/04-python-integration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Python Agents and ROS"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Communication Patterns",
+    "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-2-ros2/communication-patterns"
+  },
+  "next": {
+    "title": "Why Simulation Comes First",
+    "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-3-simulation/why-simulation-first"
+  }
+}

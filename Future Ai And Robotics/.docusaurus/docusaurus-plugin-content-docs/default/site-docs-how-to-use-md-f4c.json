@@ -1,0 +1,28 @@
+{
+  "id": "how-to-use",
+  "title": "How to Use This Book",
+  "description": "This guide helps you navigate the book effectively based on your background and learning goals.",
+  "source": "@site/docs/how-to-use.md",
+  "sourceDirName": ".",
+  "slug": "/how-to-use",
+  "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/how-to-use",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/how-to-use.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "How to Use This Book"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/intro"
+  },
+  "next": {
+    "title": "What is Physical AI?",
+    "permalink": "/book_with_rag_agent_with_speckitPlus_live/docs/module-1-physical-ai/what-is-physical-ai"
+  }
+}

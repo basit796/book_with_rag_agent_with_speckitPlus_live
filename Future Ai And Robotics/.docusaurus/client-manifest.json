@@ -1,0 +1,807 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "2237": [
+      2237
+    ],
+    "3269": [
+      867,
+      1869,
+      3249,
+      4212,
+      4813,
+      5159,
+      7643,
+      3269
+    ],
+    "5159": [
+      867,
+      1869,
+      3249,
+      3269,
+      4813,
+      6061,
+      7643,
+      8401,
+      5159
+    ],
+    "17896441": [
+      1869,
+      5159,
+      8401
+    ],
+    "26759198": [
+      8722
+    ],
+    "59362658": [
+      9325
+    ],
+    "main": [
+      1869,
+      5354,
+      8792
+    ],
+    "runtime~main": [
+      1869,
+      8792,
+      5354
+    ],
+    "01a85c17": [
+      1869,
+      8209
+    ],
+    "0e384e19": [
+      3976
+    ],
+    "13cd87b5": [
+      9094
+    ],
+    "1f391b9e": [
+      1869,
+      5159,
+      6061
+    ],
+    "23e526ae": [
+      6134
+    ],
+    "25de4019": [
+      8451
+    ],
+    "26d41ba7": [
+      7946
+    ],
+    "2770126c": [
+      8675
+    ],
+    "2a29a27e": [
+      5134
+    ],
+    "33a9ffcc": [
+      5833
+    ],
+    "33fc5bb8": [
+      1869,
+      3269,
+      5159,
+      867
+    ],
+    "36994c47": [
+      9858
+    ],
+    "393be207": [
+      4134
+    ],
+    "400ba455": [
+      5364
+    ],
+    "51692dfe": [
+      1059
+    ],
+    "54cc8754": [
+      8806
+    ],
+    "58ebe577": [
+      8477
+    ],
+    "5e95c892": [
+      9647
+    ],
+    "607ee477": [
+      4440
+    ],
+    "621db11d": [
+      1869,
+      3269,
+      4212
+    ],
+    "6875c492": [
+      1869,
+      3269,
+      5159,
+      4813
+    ],
+    "6aaa10d3": [
+      1098
+    ],
+    "73664a40": [
+      1972
+    ],
+    "7661071f": [
+      8737
+    ],
+    "814f3328": [
+      7472
+    ],
+    "8717b14a": [
+      3694
+    ],
+    "8b71fcb5": [
+      8727
+    ],
+    "8c7a5c42": [
+      9074
+    ],
+    "925b3f96": [
+      8609
+    ],
+    "9d2ba14a": [
+      1579
+    ],
+    "9e4087bc": [
+      2711
+    ],
+    "a2d08e59": [
+      8961
+    ],
+    "a368cc1a": [
+      6185
+    ],
+    "a6aa9e1f": [
+      1869,
+      3269,
+      5159,
+      7643
+    ],
+    "a7456010": [
+      1235
+    ],
+    "a7bd4aaa": [
+      7098
+    ],
+    "a94703ab": [
+      1869,
+      9048
+    ],
+    "aba21aa0": [
+      5742
+    ],
+    "acecf23e": [
+      1903
+    ],
+    "adfe7aa2": [
+      2870
+    ],
+    "bb5580d1": [
+      1280
+    ],
+    "c4f5d8e4": [
+      1869,
+      2634
+    ],
+    "ccc49370": [
+      1869,
+      3269,
+      5159,
+      3249
+    ],
+    "d5af4b42": [
+      711
+    ],
+    "d9f32620": [
+      5557
+    ],
+    "e273c56f": [
+      9328
+    ],
+    "f27061f9": [
+      2678
+    ],
+    "f353d128": [
+      8261
+    ],
+    "f4c57b23": [
+      9483
+    ],
+    "f4f34a3a": [
+      3637
+    ],
+    "fbfcff6c": [
+      5299
+    ],
+    "fd79e77d": [
+      7956
+    ],
+    "fd9649e1": [
+      7411
+    ],
+    "styles": [
+      867,
+      2634,
+      3249,
+      3269,
+      4212,
+      4813,
+      5159,
+      5354,
+      6061,
+      7643,
+      8209,
+      8401,
+      8792,
+      9048,
+      1869
+    ]
+  },
+  "assets": {
+    "711": {
+      "js": [
+        {
+          "file": "assets/js/d5af4b42.9083b06d.js",
+          "hash": "377f0dba40a695c8",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/d5af4b42.9083b06d.js"
+        }
+      ]
+    },
+    "867": {
+      "js": [
+        {
+          "file": "assets/js/33fc5bb8.0af04533.js",
+          "hash": "5cc2d3a38dd28c7b",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/33fc5bb8.0af04533.js"
+        }
+      ]
+    },
+    "1059": {
+      "js": [
+        {
+          "file": "assets/js/51692dfe.170c6f0b.js",
+          "hash": "3b06241b4feed113",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/51692dfe.170c6f0b.js"
+        }
+      ]
+    },
+    "1098": {
+      "js": [
+        {
+          "file": "assets/js/6aaa10d3.a6e4e729.js",
+          "hash": "cdb9e1cc60681348",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/6aaa10d3.a6e4e729.js"
+        }
+      ]
+    },
+    "1235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.441afa02.js",
+          "hash": "2989ca53f6158322",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/a7456010.441afa02.js"
+        }
+      ]
+    },
+    "1280": {
+      "js": [
+        {
+          "file": "assets/js/bb5580d1.d0a21ec8.js",
+          "hash": "e3c1589b7d2f62c9",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/bb5580d1.d0a21ec8.js"
+        }
+      ]
+    },
+    "1579": {
+      "js": [
+        {
+          "file": "assets/js/9d2ba14a.bc12c110.js",
+          "hash": "ef93efa8f66565fc",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/9d2ba14a.bc12c110.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.05facdcc.css",
+          "hash": "ef56f05d8d86e711",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/css/styles.05facdcc.css"
+        }
+      ]
+    },
+    "1903": {
+      "js": [
+        {
+          "file": "assets/js/acecf23e.506a18ff.js",
+          "hash": "e4bae888e80b0949",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/acecf23e.506a18ff.js"
+        }
+      ]
+    },
+    "1972": {
+      "js": [
+        {
+          "file": "assets/js/73664a40.738f833a.js",
+          "hash": "cb9760ef24d05b82",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/73664a40.738f833a.js"
+        }
+      ]
+    },
+    "2237": {
+      "js": [
+        {
+          "file": "assets/js/2237.d1a44409.js",
+          "hash": "0b0765fcda1489c5",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/2237.d1a44409.js"
+        }
+      ]
+    },
+    "2634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.a5895c86.js",
+          "hash": "a2fd0bd0df560672",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/c4f5d8e4.a5895c86.js"
+        }
+      ]
+    },
+    "2678": {
+      "js": [
+        {
+          "file": "assets/js/f27061f9.010c586b.js",
+          "hash": "81fb0e6d726f8534",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/f27061f9.010c586b.js"
+        }
+      ]
+    },
+    "2711": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.99e7b53a.js",
+          "hash": "43dc651e4424d64c",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/9e4087bc.99e7b53a.js"
+        }
+      ]
+    },
+    "2870": {
+      "js": [
+        {
+          "file": "assets/js/adfe7aa2.c6232dd1.js",
+          "hash": "f210d77eb10d5670",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/adfe7aa2.c6232dd1.js"
+        }
+      ]
+    },
+    "3249": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.06509f01.js",
+          "hash": "f355cff0b05b16ef",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/ccc49370.06509f01.js"
+        }
+      ]
+    },
+    "3269": {
+      "js": [
+        {
+          "file": "assets/js/3269.9664cbdf.js",
+          "hash": "f0cf6ff7441f0d67",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/3269.9664cbdf.js"
+        }
+      ]
+    },
+    "3637": {
+      "js": [
+        {
+          "file": "assets/js/f4f34a3a.ea440015.js",
+          "hash": "675ea83ac34544b9",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/f4f34a3a.ea440015.js"
+        }
+      ]
+    },
+    "3694": {
+      "js": [
+        {
+          "file": "assets/js/8717b14a.209f8f5a.js",
+          "hash": "7f806f6638e076cd",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/8717b14a.209f8f5a.js"
+        }
+      ]
+    },
+    "3976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.c170b596.js",
+          "hash": "0ec709349620998c",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/0e384e19.c170b596.js"
+        }
+      ]
+    },
+    "4134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.4bedfec0.js",
+          "hash": "543e3bdb74a34269",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/393be207.4bedfec0.js"
+        }
+      ]
+    },
+    "4212": {
+      "js": [
+        {
+          "file": "assets/js/621db11d.87d06845.js",
+          "hash": "f3bd04861572aa01",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/621db11d.87d06845.js"
+        }
+      ]
+    },
+    "4440": {
+      "js": [
+        {
+          "file": "assets/js/607ee477.b1ef4864.js",
+          "hash": "901087514d8d9951",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/607ee477.b1ef4864.js"
+        }
+      ]
+    },
+    "4813": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.b6f7b315.js",
+          "hash": "642cc4d798a782cb",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/6875c492.b6f7b315.js"
+        }
+      ]
+    },
+    "5134": {
+      "js": [
+        {
+          "file": "assets/js/2a29a27e.4c7abda7.js",
+          "hash": "8308c5f72ac66376",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/2a29a27e.4c7abda7.js"
+        }
+      ]
+    },
+    "5159": {
+      "js": [
+        {
+          "file": "assets/js/5159.5d481b79.js",
+          "hash": "dba870557aa43042",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/5159.5d481b79.js"
+        }
+      ]
+    },
+    "5299": {
+      "js": [
+        {
+          "file": "assets/js/fbfcff6c.2535cd34.js",
+          "hash": "a7555e2634ddc457",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/fbfcff6c.2535cd34.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.a670b4d2.js",
+          "hash": "69e4940896f2c226",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/runtime~main.a670b4d2.js"
+        }
+      ]
+    },
+    "5364": {
+      "js": [
+        {
+          "file": "assets/js/400ba455.942ab502.js",
+          "hash": "6703d39b8434a9e5",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/400ba455.942ab502.js"
+        }
+      ]
+    },
+    "5557": {
+      "js": [
+        {
+          "file": "assets/js/d9f32620.eb8f729d.js",
+          "hash": "1a28b750fda2ba23",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/d9f32620.eb8f729d.js"
+        }
+      ]
+    },
+    "5742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.54d1b853.js",
+          "hash": "de0b92febb73df50",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/aba21aa0.54d1b853.js"
+        }
+      ]
+    },
+    "5833": {
+      "js": [
+        {
+          "file": "assets/js/33a9ffcc.0bc026e3.js",
+          "hash": "0ae194e4608a5fde",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/33a9ffcc.0bc026e3.js"
+        }
+      ]
+    },
+    "6061": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.b3061080.js",
+          "hash": "8f017914008bfd8e",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/1f391b9e.b3061080.js"
+        }
+      ]
+    },
+    "6134": {
+      "js": [
+        {
+          "file": "assets/js/23e526ae.9fdeb2cf.js",
+          "hash": "0420e37664f354e8",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/23e526ae.9fdeb2cf.js"
+        }
+      ]
+    },
+    "6185": {
+      "js": [
+        {
+          "file": "assets/js/a368cc1a.f89eee5e.js",
+          "hash": "122fe6fc9b664258",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/a368cc1a.f89eee5e.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.1fb0f8b3.js",
+          "hash": "7b6b874253d59b09",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/a7bd4aaa.1fb0f8b3.js"
+        }
+      ]
+    },
+    "7411": {
+      "js": [
+        {
+          "file": "assets/js/fd9649e1.4b694cc7.js",
+          "hash": "388ac97516a691d7",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/fd9649e1.4b694cc7.js"
+        }
+      ]
+    },
+    "7472": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.01934ef2.js",
+          "hash": "e28bedd36759737a",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/814f3328.01934ef2.js"
+        }
+      ]
+    },
+    "7643": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.252a23e6.js",
+          "hash": "fda9569c194fda76",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/a6aa9e1f.252a23e6.js"
+        }
+      ]
+    },
+    "7946": {
+      "js": [
+        {
+          "file": "assets/js/26d41ba7.646130ee.js",
+          "hash": "d44118f2aca0f37c",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/26d41ba7.646130ee.js"
+        }
+      ]
+    },
+    "7956": {
+      "js": [
+        {
+          "file": "assets/js/fd79e77d.99b38b8c.js",
+          "hash": "06b92f0e2317fd60",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/fd79e77d.99b38b8c.js"
+        }
+      ]
+    },
+    "8209": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.53c42d6f.js",
+          "hash": "7a64fe09fb279fc8",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/01a85c17.53c42d6f.js"
+        }
+      ]
+    },
+    "8261": {
+      "js": [
+        {
+          "file": "assets/js/f353d128.cc650b45.js",
+          "hash": "3ba85210af142c26",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/f353d128.cc650b45.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.c94170ed.js",
+          "hash": "185a23e187834242",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/17896441.c94170ed.js"
+        }
+      ]
+    },
+    "8451": {
+      "js": [
+        {
+          "file": "assets/js/25de4019.f1fb5802.js",
+          "hash": "ea2439a4aa7cf546",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/25de4019.f1fb5802.js"
+        }
+      ]
+    },
+    "8477": {
+      "js": [
+        {
+          "file": "assets/js/58ebe577.1eb3e189.js",
+          "hash": "96165173e7630911",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/58ebe577.1eb3e189.js"
+        }
+      ]
+    },
+    "8609": {
+      "js": [
+        {
+          "file": "assets/js/925b3f96.de7076d5.js",
+          "hash": "12f846a8392e5e83",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/925b3f96.de7076d5.js"
+        }
+      ]
+    },
+    "8675": {
+      "js": [
+        {
+          "file": "assets/js/2770126c.6955b562.js",
+          "hash": "3911c49fdab4d96e",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/2770126c.6955b562.js"
+        }
+      ]
+    },
+    "8722": {
+      "js": [
+        {
+          "file": "assets/js/26759198.b7547af7.js",
+          "hash": "1c4cf8622b1b2cf7",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/26759198.b7547af7.js"
+        }
+      ]
+    },
+    "8727": {
+      "js": [
+        {
+          "file": "assets/js/8b71fcb5.9dd9ad1f.js",
+          "hash": "7225d180823ae502",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/8b71fcb5.9dd9ad1f.js"
+        }
+      ]
+    },
+    "8737": {
+      "js": [
+        {
+          "file": "assets/js/7661071f.6e70a079.js",
+          "hash": "b4755a939d80fd7e",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/7661071f.6e70a079.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.5298b641.js",
+          "hash": "5a7d72266a3f2dc0",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/main.5298b641.js"
+        }
+      ]
+    },
+    "8806": {
+      "js": [
+        {
+          "file": "assets/js/54cc8754.a86322f8.js",
+          "hash": "61780ca3b1a79822",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/54cc8754.a86322f8.js"
+        }
+      ]
+    },
+    "8961": {
+      "js": [
+        {
+          "file": "assets/js/a2d08e59.e2903bd1.js",
+          "hash": "862f0ab972667e99",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/a2d08e59.e2903bd1.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.ba6019e2.js",
+          "hash": "8b9a95b9e5aa3379",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/a94703ab.ba6019e2.js"
+        }
+      ]
+    },
+    "9074": {
+      "js": [
+        {
+          "file": "assets/js/8c7a5c42.db3dac1a.js",
+          "hash": "201ecd74c2e35257",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/8c7a5c42.db3dac1a.js"
+        }
+      ]
+    },
+    "9094": {
+      "js": [
+        {
+          "file": "assets/js/13cd87b5.8d4eef98.js",
+          "hash": "eb6861a081cf8618",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/13cd87b5.8d4eef98.js"
+        }
+      ]
+    },
+    "9325": {
+      "js": [
+        {
+          "file": "assets/js/59362658.57da7c80.js",
+          "hash": "f84a36ac290c389a",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/59362658.57da7c80.js"
+        }
+      ]
+    },
+    "9328": {
+      "js": [
+        {
+          "file": "assets/js/e273c56f.6bdcac18.js",
+          "hash": "d84677349337b24f",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/e273c56f.6bdcac18.js"
+        }
+      ]
+    },
+    "9483": {
+      "js": [
+        {
+          "file": "assets/js/f4c57b23.b7d7ee28.js",
+          "hash": "7646b6a287781f05",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/f4c57b23.b7d7ee28.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.0e3ac0a8.js",
+          "hash": "a576a53db68d06e8",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/5e95c892.0e3ac0a8.js"
+        }
+      ]
+    },
+    "9858": {
+      "js": [
+        {
+          "file": "assets/js/36994c47.e93adfdd.js",
+          "hash": "49122e25e47a7e44",
+          "publicPath": "/book_with_rag_agent_with_speckitPlus_live/assets/js/36994c47.e93adfdd.js"
+        }
+      ]
+    }
+  }
+}

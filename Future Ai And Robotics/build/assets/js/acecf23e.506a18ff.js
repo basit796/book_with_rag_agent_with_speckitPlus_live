@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkfuture_ai_and_robotics=globalThis.webpackChunkfuture_ai_and_robotics||[]).push([[1903],{1912(t){t.exports=JSON.parse('{"blogBasePath":"/book_with_rag_agent_with_speckitPlus_live/blog","blogTitle":"Blog","authorsListPath":"/book_with_rag_agent_with_speckitPlus_live/blog/authors"}')}}]);
