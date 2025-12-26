@@ -1,0 +1,258 @@
+.messageList {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  background: #f8f9fa;
+}
+
+/* Dark mode support */
+html[data-theme='dark'] .messageList {
+  background: #242526;
+}
+
+.messageList::-webkit-scrollbar {
+  width: 8px;
+}
+
+.messageList::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+html[data-theme='dark'] .messageList::-webkit-scrollbar-track {
+  background: #3a3b3c;
+}
+
+.messageList::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+html[data-theme='dark'] .messageList::-webkit-scrollbar-thumb {
+  background: #5a5b5c;
+}
+
+.messageList::-webkit-scrollbar-thumb:hover {
+  background: #a1a1a1;
+}
+
+html[data-theme='dark'] .messageList::-webkit-scrollbar-thumb:hover {
+  background: #6a6b6c;
+}
+
+.emptyState {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 40px 20px;
+  color: #6c757d;
+}
+
+html[data-theme='dark'] .emptyState {
+  color: #b0b3b8;
+}
+
+.emptyIcon {
+  font-size: 64px;
+  margin-bottom: 16px;
+}
+
+.emptyText {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 8px 0;
+  color: #495057;
+}
+
+html[data-theme='dark'] .emptyText {
+  color: #e4e6eb;
+}
+
+.emptySubtext {
+  font-size: 14px;
+  margin: 0;
+  color: #6c757d;
+}
+
+html[data-theme='dark'] .emptySubtext {
+  color: #b0b3b8;
+}
+
+.message {
+  display: flex;
+  flex-direction: column;
+  max-width: 85%;
+  animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.message.user {
+  align-self: flex-end;
+}
+
+.message.bot {
+  align-self: flex-start;
+}
+
+.messageContent {
+  padding: 12px 16px;
+  border-radius: 12px;
+  word-wrap: break-word;
+}
+
+.user .messageContent {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-bottom-right-radius: 4px;
+}
+
+.bot .messageContent {
+  background: white;
+  color: #212529;
+  border: 1px solid #e9ecef;
+  border-bottom-left-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+html[data-theme='dark'] .bot .messageContent {
+  background: #3a3b3c;
+  color: #e4e6eb;
+  border-color: #4a4b4c;
+}
+
+.message.error .messageContent {
+  background: #fff3cd;
+  border-color: #ffc107;
+  color: #856404;
+}
+
+html[data-theme='dark'] .message.error .messageContent {
+  background: #554400;
+  border-color: #aa8800;
+  color: #ffd966;
+}
+
+.messageText {
+  margin: 0;
+  line-height: 1.5;
+  font-size: 14px;
+  white-space: pre-wrap;
+}
+
+.timestamp {
+  font-size: 11px;
+  color: #6c757d;
+  margin-top: 4px;
+  opacity: 0.7;
+}
+
+.user .timestamp {
+  text-align: right;
+}
+
+.bot .timestamp {
+  text-align: left;
+}
+
+.citations {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.user .citations {
+  border-top-color: rgba(255, 255, 255, 0.3);
+}
+
+.citationsLabel {
+  font-size: 12px;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.user .citationsLabel {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.citationsList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.citationBadge {
+  display: inline-block;
+  padding: 4px 10px;
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  font-size: 11px;
+  text-decoration: none;
+  color: #495057;
+  transition: all 0.2s;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.user .citationBadge {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.citationBadge:hover {
+  background: rgba(0, 0, 0, 0.1);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.user .citationBadge:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.typingIndicator {
+  display: flex;
+  gap: 4px;
+  padding: 12px 16px;
+}
+
+.typingIndicator span {
+  width: 8px;
+  height: 8px;
+  background: #667eea;
+  border-radius: 50%;
+  animation: typing 1.4s infinite;
+}
+
+.typingIndicator span:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.typingIndicator span:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes typing {
+  0%, 60%, 100% {
+    transform: translateY(0);
+    opacity: 0.5;
+  }
+  30% {
+    transform: translateY(-8px);
+    opacity: 1;
+  }
+}

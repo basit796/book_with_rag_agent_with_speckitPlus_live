@@ -1,0 +1,273 @@
+{
+  "modules": [
+    {
+      "id": "module-1-physical-ai",
+      "title": "Physical AI Foundations",
+      "order": 1,
+      "description": "Learn about physical ai foundations",
+      "chapters": [
+        {
+          "id": "01-what-is-physical-ai",
+          "number": 1,
+          "title": "Chapter 1: From Digital AI to Physical AI",
+          "file_path": "docs/module-1-physical-ai/01-what-is-physical-ai.md",
+          "topics": [
+            "AI",
+            "Actions",
+            "Actuation",
+            "Analyze",
+            "Better",
+            "Cameras",
+            "Case",
+            "Case studies",
+            "Check",
+            "Common"
+          ],
+          "word_count": 1052
+        },
+        {
+          "id": "02-physical-constraints",
+          "number": 2,
+          "title": "The Physical World as a Constraint",
+          "file_path": "docs/module-1-physical-ai/02-physical-constraints.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 97
+        },
+        {
+          "id": "03-robot-architecture",
+          "number": 3,
+          "title": "Anatomy of a Robot",
+          "file_path": "docs/module-1-physical-ai/03-robot-architecture.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 93
+        },
+        {
+          "id": "04-why-humanoids",
+          "number": 4,
+          "title": "Why Humanoids?",
+          "file_path": "docs/module-1-physical-ai/04-why-humanoids.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 89
+        }
+      ],
+      "word_count": 1331
+    },
+    {
+      "id": "module-2-ros2",
+      "title": "ROS2 Middleware",
+      "order": 2,
+      "description": "Learn about ros2 middleware",
+      "chapters": [
+        {
+          "id": "01-why-middleware",
+          "number": 1,
+          "title": "Why Robots Need Middleware",
+          "file_path": "docs/module-2-ros2/01-why-middleware.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 93
+        },
+        {
+          "id": "02-architecture",
+          "number": 2,
+          "title": "ROS 2 Architecture",
+          "file_path": "docs/module-2-ros2/02-architecture.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 91
+        },
+        {
+          "id": "03-communication-patterns",
+          "number": 3,
+          "title": "Communication Patterns",
+          "file_path": "docs/module-2-ros2/03-communication-patterns.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 89
+        },
+        {
+          "id": "04-python-integration",
+          "number": 4,
+          "title": "Python Agents and ROS",
+          "file_path": "docs/module-2-ros2/04-python-integration.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 93
+        }
+      ],
+      "word_count": 366
+    },
+    {
+      "id": "module-3-simulation",
+      "title": "Simulation & Digital Twins",
+      "order": 3,
+      "description": "Learn about simulation & digital twins",
+      "chapters": [
+        {
+          "id": "01-why-simulation-first",
+          "number": 1,
+          "title": "Why Simulation Comes First",
+          "file_path": "docs/module-3-simulation/01-why-simulation-first.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 93
+        },
+        {
+          "id": "02-physics-digital-twins",
+          "number": 2,
+          "title": "Physics Engines and Digital Twins",
+          "file_path": "docs/module-3-simulation/02-physics-digital-twins.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 95
+        },
+        {
+          "id": "03-simulated-sensors",
+          "number": 3,
+          "title": "Simulated Sensors and Perception",
+          "file_path": "docs/module-3-simulation/03-simulated-sensors.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 93
+        },
+        {
+          "id": "04-tools-landscape",
+          "number": 4,
+          "title": "Simulation Tools Landscape",
+          "file_path": "docs/module-3-simulation/04-tools-landscape.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 91
+        }
+      ],
+      "word_count": 372
+    },
+    {
+      "id": "module-4-isaac",
+      "title": "NVIDIA Isaac Platform",
+      "order": 4,
+      "description": "Learn about nvidia isaac platform",
+      "chapters": [
+        {
+          "id": "01-why-better-simulation",
+          "number": 1,
+          "title": "Why AI Needs Better Simulation",
+          "file_path": "docs/module-4-isaac/01-why-better-simulation.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 95
+        },
+        {
+          "id": "02-isaac-sim-overview",
+          "number": 2,
+          "title": "Isaac Sim Overview",
+          "file_path": "docs/module-4-isaac/02-isaac-sim-overview.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 91
+        },
+        {
+          "id": "03-isaac-ros-pipelines",
+          "number": 3,
+          "title": "Isaac ROS Pipelines",
+          "file_path": "docs/module-4-isaac/03-isaac-ros-pipelines.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 91
+        },
+        {
+          "id": "04-mapping-navigation",
+          "number": 4,
+          "title": "Mapping & Navigation",
+          "file_path": "docs/module-4-isaac/04-mapping-navigation.md",
+          "topics": [
+            "Coming",
+            "Overview",
+            "Placeholder",
+            "Soon",
+            "Temporary"
+          ],
+          "word_count": 91
+        }
+      ],
+      "word_count": 368
+    }
+  ],
+  "total_chapters": 16,
+  "total_modules": 4,
+  "total_words": 2437,
+  "total_chunks": 93
+}
