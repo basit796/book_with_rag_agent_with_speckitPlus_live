@@ -1,6 +1,8 @@
-# Website
+# Physical AI & Humanoid Robotics Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+
+Deployed automatically via GitHub Actions to GitHub Pages.
 
 ## Installation
 
