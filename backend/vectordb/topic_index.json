@@ -2,19 +2,24 @@
   "topics": {
     "AI": {
       "chapters": [
-        "docs/module-1-physical-ai/01-what-is-physical-ai.md"
+        "docs/module-1-physical-ai/01-what-is-physical-ai.md",
+        "docs/module-1-physical-ai/03-robot-architecture.md",
+        "docs/module-2-ros2/04-python-integration.md"
       ],
       "description": "Learn about AI"
     },
     "Actions": {
       "chapters": [
-        "docs/module-1-physical-ai/01-what-is-physical-ai.md"
+        "docs/module-1-physical-ai/01-what-is-physical-ai.md",
+        "docs/module-2-ros2/02-architecture.md",
+        "docs/module-2-ros2/03-communication-patterns.md"
       ],
       "description": "Learn about Actions"
     },
     "Actuation": {
       "chapters": [
-        "docs/module-1-physical-ai/01-what-is-physical-ai.md"
+        "docs/module-1-physical-ai/01-what-is-physical-ai.md",
+        "docs/module-1-physical-ai/02-physical-constraints.md"
       ],
       "description": "Learn about Actuation"
     },
@@ -32,7 +37,8 @@
     },
     "Cameras": {
       "chapters": [
-        "docs/module-1-physical-ai/01-what-is-physical-ai.md"
+        "docs/module-1-physical-ai/01-what-is-physical-ai.md",
+        "docs/module-1-physical-ai/02-physical-constraints.md"
       ],
       "description": "Learn about Cameras"
     },
@@ -75,105 +81,56 @@
       ],
       "description": "Chapter: Chapter 1: From Digital AI to Physical AI"
     },
-    "Coming": {
+    "Act": {
       "chapters": [
         "docs/module-1-physical-ai/02-physical-constraints.md",
         "docs/module-1-physical-ai/03-robot-architecture.md",
-        "docs/module-1-physical-ai/04-why-humanoids.md",
-        "docs/module-2-ros2/01-why-middleware.md",
-        "docs/module-2-ros2/02-architecture.md",
-        "docs/module-2-ros2/03-communication-patterns.md",
-        "docs/module-2-ros2/04-python-integration.md",
-        "docs/module-3-simulation/01-why-simulation-first.md",
-        "docs/module-3-simulation/02-physics-digital-twins.md",
-        "docs/module-3-simulation/03-simulated-sensors.md",
-        "docs/module-3-simulation/04-tools-landscape.md",
-        "docs/module-4-isaac/01-why-better-simulation.md",
-        "docs/module-4-isaac/02-isaac-sim-overview.md",
-        "docs/module-4-isaac/03-isaac-ros-pipelines.md",
-        "docs/module-4-isaac/04-mapping-navigation.md"
+        "docs/module-2-ros2/01-why-middleware.md"
       ],
-      "description": "Learn about Coming"
+      "description": "Learn about Act"
     },
-    "Overview": {
+    "Cascading": {
       "chapters": [
-        "docs/module-1-physical-ai/02-physical-constraints.md",
-        "docs/module-1-physical-ai/03-robot-architecture.md",
-        "docs/module-1-physical-ai/04-why-humanoids.md",
-        "docs/module-2-ros2/01-why-middleware.md",
-        "docs/module-2-ros2/02-architecture.md",
-        "docs/module-2-ros2/03-communication-patterns.md",
-        "docs/module-2-ros2/04-python-integration.md",
-        "docs/module-3-simulation/01-why-simulation-first.md",
-        "docs/module-3-simulation/02-physics-digital-twins.md",
-        "docs/module-3-simulation/03-simulated-sensors.md",
-        "docs/module-3-simulation/04-tools-landscape.md",
-        "docs/module-4-isaac/01-why-better-simulation.md",
-        "docs/module-4-isaac/02-isaac-sim-overview.md",
-        "docs/module-4-isaac/03-isaac-ros-pipelines.md",
-        "docs/module-4-isaac/04-mapping-navigation.md"
+        "docs/module-1-physical-ai/02-physical-constraints.md"
       ],
-      "description": "Learn about Overview"
+      "description": "Learn about Cascading"
     },
-    "Placeholder": {
+    "Closed": {
       "chapters": [
-        "docs/module-1-physical-ai/02-physical-constraints.md",
-        "docs/module-1-physical-ai/03-robot-architecture.md",
-        "docs/module-1-physical-ai/04-why-humanoids.md",
-        "docs/module-2-ros2/01-why-middleware.md",
-        "docs/module-2-ros2/02-architecture.md",
-        "docs/module-2-ros2/03-communication-patterns.md",
-        "docs/module-2-ros2/04-python-integration.md",
-        "docs/module-3-simulation/01-why-simulation-first.md",
-        "docs/module-3-simulation/02-physics-digital-twins.md",
-        "docs/module-3-simulation/03-simulated-sensors.md",
-        "docs/module-3-simulation/04-tools-landscape.md",
-        "docs/module-4-isaac/01-why-better-simulation.md",
-        "docs/module-4-isaac/02-isaac-sim-overview.md",
-        "docs/module-4-isaac/03-isaac-ros-pipelines.md",
-        "docs/module-4-isaac/04-mapping-navigation.md"
+        "docs/module-1-physical-ai/02-physical-constraints.md"
       ],
-      "description": "Learn about Placeholder"
+      "description": "Learn about Closed"
     },
-    "Soon": {
+    "Comes": {
       "chapters": [
-        "docs/module-1-physical-ai/02-physical-constraints.md",
-        "docs/module-1-physical-ai/03-robot-architecture.md",
-        "docs/module-1-physical-ai/04-why-humanoids.md",
-        "docs/module-2-ros2/01-why-middleware.md",
-        "docs/module-2-ros2/02-architecture.md",
-        "docs/module-2-ros2/03-communication-patterns.md",
-        "docs/module-2-ros2/04-python-integration.md",
-        "docs/module-3-simulation/01-why-simulation-first.md",
-        "docs/module-3-simulation/02-physics-digital-twins.md",
-        "docs/module-3-simulation/03-simulated-sensors.md",
-        "docs/module-3-simulation/04-tools-landscape.md",
-        "docs/module-4-isaac/01-why-better-simulation.md",
-        "docs/module-4-isaac/02-isaac-sim-overview.md",
-        "docs/module-4-isaac/03-isaac-ros-pipelines.md",
-        "docs/module-4-isaac/04-mapping-navigation.md"
+        "docs/module-1-physical-ai/02-physical-constraints.md"
       ],
-      "description": "Learn about Soon"
+      "description": "Learn about Comes"
     },
-    "Temporary": {
+    "Communication": {
       "chapters": [
         "docs/module-1-physical-ai/02-physical-constraints.md",
-        "docs/module-1-physical-ai/03-robot-architecture.md",
-        "docs/module-1-physical-ai/04-why-humanoids.md",
-        "docs/module-2-ros2/01-why-middleware.md",
-        "docs/module-2-ros2/02-architecture.md",
-        "docs/module-2-ros2/03-communication-patterns.md",
-        "docs/module-2-ros2/04-python-integration.md",
-        "docs/module-3-simulation/01-why-simulation-first.md",
-        "docs/module-3-simulation/02-physics-digital-twins.md",
-        "docs/module-3-simulation/03-simulated-sensors.md",
-        "docs/module-3-simulation/04-tools-landscape.md",
-        "docs/module-4-isaac/01-why-better-simulation.md",
-        "docs/module-4-isaac/02-isaac-sim-overview.md",
-        "docs/module-4-isaac/03-isaac-ros-pipelines.md",
-        "docs/module-4-isaac/04-mapping-navigation.md"
+        "docs/module-2-ros2/02-architecture.md"
       ],
-      "description": "Learn about Temporary"
+      "description": "Learn about Communication"
+    },
+    "Continuous": {
+      "chapters": [
+        "docs/module-1-physical-ai/02-physical-constraints.md"
+      ],
+      "description": "Learn about Continuous"
+    },
+    "Control": {
+      "chapters": [
+        "docs/module-1-physical-ai/02-physical-constraints.md"
+      ],
+      "description": "Learn about Control"
+    },
+    "Delays": {
+      "chapters": [
+        "docs/module-1-physical-ai/02-physical-constraints.md"
+      ],
+      "description": "Learn about Delays"
     },
     "The Physical World as a Constraint": {
       "chapters": [
@@ -181,17 +138,179 @@
       ],
       "description": "Chapter: The Physical World as a Constraint"
     },
+    "ACT": {
+      "chapters": [
+        "docs/module-1-physical-ai/03-robot-architecture.md"
+      ],
+      "description": "Learn about ACT"
+    },
+    "AI Model": {
+      "chapters": [
+        "docs/module-1-physical-ai/03-robot-architecture.md"
+      ],
+      "description": "Learn about AI Model"
+    },
+    "AI System": {
+      "chapters": [
+        "docs/module-1-physical-ai/03-robot-architecture.md"
+      ],
+      "description": "Learn about AI System"
+    },
+    "Action": {
+      "chapters": [
+        "docs/module-1-physical-ai/03-robot-architecture.md"
+      ],
+      "description": "Learn about Action"
+    },
+    "Actuators": {
+      "chapters": [
+        "docs/module-1-physical-ai/03-robot-architecture.md"
+      ],
+      "description": "Learn about Actuators"
+    },
+    "Battery Capacity": {
+      "chapters": [
+        "docs/module-1-physical-ai/03-robot-architecture.md"
+      ],
+      "description": "Learn about Battery Capacity"
+    },
+    "Brain": {
+      "chapters": [
+        "docs/module-1-physical-ai/03-robot-architecture.md"
+      ],
+      "description": "Learn about Brain"
+    },
+    "Buses": {
+      "chapters": [
+        "docs/module-1-physical-ai/03-robot-architecture.md"
+      ],
+      "description": "Learn about Buses"
+    },
     "Anatomy of a Robot": {
       "chapters": [
         "docs/module-1-physical-ai/03-robot-architecture.md"
       ],
       "description": "Chapter: Anatomy of a Robot"
     },
+    "Acceptance": {
+      "chapters": [
+        "docs/module-1-physical-ai/04-why-humanoids.md"
+      ],
+      "description": "Learn about Acceptance"
+    },
+    "Agility Robotics Digit": {
+      "chapters": [
+        "docs/module-1-physical-ai/04-why-humanoids.md"
+      ],
+      "description": "Learn about Agility Robotics Digit"
+    },
+    "Ahead": {
+      "chapters": [
+        "docs/module-1-physical-ai/04-why-humanoids.md"
+      ],
+      "description": "Learn about Ahead"
+    },
+    "Alternatives": {
+      "chapters": [
+        "docs/module-1-physical-ai/04-why-humanoids.md"
+      ],
+      "description": "Learn about Alternatives"
+    },
+    "Anthropomorphism": {
+      "chapters": [
+        "docs/module-1-physical-ai/04-why-humanoids.md"
+      ],
+      "description": "Learn about Anthropomorphism"
+    },
+    "Application": {
+      "chapters": [
+        "docs/module-1-physical-ai/04-why-humanoids.md"
+      ],
+      "description": "Learn about Application"
+    },
+    "Arm": {
+      "chapters": [
+        "docs/module-1-physical-ai/04-why-humanoids.md"
+      ],
+      "description": "Learn about Arm"
+    },
+    "Assistance": {
+      "chapters": [
+        "docs/module-1-physical-ai/04-why-humanoids.md"
+      ],
+      "description": "Learn about Assistance"
+    },
+    "Avoid realism": {
+      "chapters": [
+        "docs/module-1-physical-ai/04-why-humanoids.md"
+      ],
+      "description": "Learn about Avoid realism"
+    },
+    "Balance and Locomotion": {
+      "chapters": [
+        "docs/module-1-physical-ai/04-why-humanoids.md"
+      ],
+      "description": "Learn about Balance and Locomotion"
+    },
     "Why Humanoids?": {
       "chapters": [
         "docs/module-1-physical-ai/04-why-humanoids.md"
       ],
       "description": "Chapter: Why Humanoids?"
+    },
+    "Camera Driver": {
+      "chapters": [
+        "docs/module-2-ros2/01-why-middleware.md"
+      ],
+      "description": "Learn about Camera Driver"
+    },
+    "Complexity": {
+      "chapters": [
+        "docs/module-2-ros2/01-why-middleware.md"
+      ],
+      "description": "Learn about Complexity"
+    },
+    "Compute": {
+      "chapters": [
+        "docs/module-2-ros2/01-why-middleware.md"
+      ],
+      "description": "Learn about Compute"
+    },
+    "Discovery": {
+      "chapters": [
+        "docs/module-2-ros2/01-why-middleware.md"
+      ],
+      "description": "Learn about Discovery"
+    },
+    "Inter-process communication": {
+      "chapters": [
+        "docs/module-2-ros2/01-why-middleware.md"
+      ],
+      "description": "Learn about Inter-process communication"
+    },
+    "Just": {
+      "chapters": [
+        "docs/module-2-ros2/01-why-middleware.md"
+      ],
+      "description": "Learn about Just"
+    },
+    "Message serialization": {
+      "chapters": [
+        "docs/module-2-ros2/01-why-middleware.md"
+      ],
+      "description": "Learn about Message serialization"
+    },
+    "Middleware": {
+      "chapters": [
+        "docs/module-2-ros2/01-why-middleware.md"
+      ],
+      "description": "Learn about Middleware"
+    },
+    "Motor Controller": {
+      "chapters": [
+        "docs/module-2-ros2/01-why-middleware.md"
+      ],
+      "description": "Learn about Motor Controller"
     },
     "ROS2 Middleware": {
       "chapters": [
@@ -208,11 +327,113 @@
       ],
       "description": "Chapter: Why Robots Need Middleware"
     },
+    "Computational": {
+      "chapters": [
+        "docs/module-2-ros2/02-architecture.md"
+      ],
+      "description": "Learn about Computational"
+    },
+    "Concepts": {
+      "chapters": [
+        "docs/module-2-ros2/02-architecture.md"
+      ],
+      "description": "Learn about Concepts"
+    },
+    "Core": {
+      "chapters": [
+        "docs/module-2-ros2/02-architecture.md"
+      ],
+      "description": "Learn about Core"
+    },
+    "DDS": {
+      "chapters": [
+        "docs/module-2-ros2/02-architecture.md"
+      ],
+      "description": "Learn about DDS"
+    },
+    "Files": {
+      "chapters": [
+        "docs/module-2-ros2/02-architecture.md"
+      ],
+      "description": "Learn about Files"
+    },
+    "Foundation": {
+      "chapters": [
+        "docs/module-2-ros2/02-architecture.md"
+      ],
+      "description": "Learn about Foundation"
+    },
+    "Graph": {
+      "chapters": [
+        "docs/module-2-ros2/02-architecture.md"
+      ],
+      "description": "Learn about Graph"
+    },
+    "Launch": {
+      "chapters": [
+        "docs/module-2-ros2/02-architecture.md"
+      ],
+      "description": "Learn about Launch"
+    },
     "ROS 2 Architecture": {
       "chapters": [
         "docs/module-2-ros2/02-architecture.md"
       ],
       "description": "Chapter: ROS 2 Architecture"
+    },
+    "Calls": {
+      "chapters": [
+        "docs/module-2-ros2/03-communication-patterns.md"
+      ],
+      "description": "Learn about Calls"
+    },
+    "Characteristics": {
+      "chapters": [
+        "docs/module-2-ros2/03-communication-patterns.md"
+      ],
+      "description": "Learn about Characteristics"
+    },
+    "Data": {
+      "chapters": [
+        "docs/module-2-ros2/03-communication-patterns.md"
+      ],
+      "description": "Learn about Data"
+    },
+    "Deadline": {
+      "chapters": [
+        "docs/module-2-ros2/03-communication-patterns.md"
+      ],
+      "description": "Learn about Deadline"
+    },
+    "Durability": {
+      "chapters": [
+        "docs/module-2-ros2/03-communication-patterns.md"
+      ],
+      "description": "Learn about Durability"
+    },
+    "Dynamic reconfigure": {
+      "chapters": [
+        "docs/module-2-ros2/03-communication-patterns.md"
+      ],
+      "description": "Learn about Dynamic reconfigure"
+    },
+    "Feedback": {
+      "chapters": [
+        "docs/module-2-ros2/03-communication-patterns.md"
+      ],
+      "description": "Learn about Feedback"
+    },
+    "History": {
+      "chapters": [
+        "docs/module-2-ros2/03-communication-patterns.md"
+      ],
+      "description": "Learn about History"
+    },
+    "Library": {
+      "chapters": [
+        "docs/module-2-ros2/03-communication-patterns.md"
+      ],
+      "description": "Learn about Library"
     },
     "Communication Patterns": {
       "chapters": [
@@ -220,11 +441,130 @@
       ],
       "description": "Chapter: Communication Patterns"
     },
+    "Avoid blocking": {
+      "chapters": [
+        "docs/module-2-ros2/04-python-integration.md"
+      ],
+      "description": "Learn about Avoid blocking"
+    },
+    "Best": {
+      "chapters": [
+        "docs/module-2-ros2/04-python-integration.md"
+      ],
+      "description": "Learn about Best"
+    },
+    "Creating": {
+      "chapters": [
+        "docs/module-2-ros2/04-python-integration.md"
+      ],
+      "description": "Learn about Creating"
+    },
+    "Descriptive names": {
+      "chapters": [
+        "docs/module-2-ros2/04-python-integration.md"
+      ],
+      "description": "Learn about Descriptive names"
+    },
+    "Integrating": {
+      "chapters": [
+        "docs/module-2-ros2/04-python-integration.md"
+      ],
+      "description": "Learn about Integrating"
+    },
+    "Integration": {
+      "chapters": [
+        "docs/module-2-ros2/04-python-integration.md"
+      ],
+      "description": "Learn about Integration"
+    },
+    "Key components": {
+      "chapters": [
+        "docs/module-2-ros2/04-python-integration.md"
+      ],
+      "description": "Learn about Key components"
+    },
+    "Logging": {
+      "chapters": [
+        "docs/module-2-ros2/04-python-integration.md"
+      ],
+      "description": "Learn about Logging"
+    },
+    "Models": {
+      "chapters": [
+        "docs/module-2-ros2/04-python-integration.md"
+      ],
+      "description": "Learn about Models"
+    },
     "Python Agents and ROS": {
       "chapters": [
         "docs/module-2-ros2/04-python-integration.md"
       ],
       "description": "Chapter: Python Agents and ROS"
+    },
+    "Coming": {
+      "chapters": [
+        "docs/module-3-simulation/01-why-simulation-first.md",
+        "docs/module-3-simulation/02-physics-digital-twins.md",
+        "docs/module-3-simulation/03-simulated-sensors.md",
+        "docs/module-3-simulation/04-tools-landscape.md",
+        "docs/module-4-isaac/01-why-better-simulation.md",
+        "docs/module-4-isaac/02-isaac-sim-overview.md",
+        "docs/module-4-isaac/03-isaac-ros-pipelines.md",
+        "docs/module-4-isaac/04-mapping-navigation.md"
+      ],
+      "description": "Learn about Coming"
+    },
+    "Overview": {
+      "chapters": [
+        "docs/module-3-simulation/01-why-simulation-first.md",
+        "docs/module-3-simulation/02-physics-digital-twins.md",
+        "docs/module-3-simulation/03-simulated-sensors.md",
+        "docs/module-3-simulation/04-tools-landscape.md",
+        "docs/module-4-isaac/01-why-better-simulation.md",
+        "docs/module-4-isaac/02-isaac-sim-overview.md",
+        "docs/module-4-isaac/03-isaac-ros-pipelines.md",
+        "docs/module-4-isaac/04-mapping-navigation.md"
+      ],
+      "description": "Learn about Overview"
+    },
+    "Placeholder": {
+      "chapters": [
+        "docs/module-3-simulation/01-why-simulation-first.md",
+        "docs/module-3-simulation/02-physics-digital-twins.md",
+        "docs/module-3-simulation/03-simulated-sensors.md",
+        "docs/module-3-simulation/04-tools-landscape.md",
+        "docs/module-4-isaac/01-why-better-simulation.md",
+        "docs/module-4-isaac/02-isaac-sim-overview.md",
+        "docs/module-4-isaac/03-isaac-ros-pipelines.md",
+        "docs/module-4-isaac/04-mapping-navigation.md"
+      ],
+      "description": "Learn about Placeholder"
+    },
+    "Soon": {
+      "chapters": [
+        "docs/module-3-simulation/01-why-simulation-first.md",
+        "docs/module-3-simulation/02-physics-digital-twins.md",
+        "docs/module-3-simulation/03-simulated-sensors.md",
+        "docs/module-3-simulation/04-tools-landscape.md",
+        "docs/module-4-isaac/01-why-better-simulation.md",
+        "docs/module-4-isaac/02-isaac-sim-overview.md",
+        "docs/module-4-isaac/03-isaac-ros-pipelines.md",
+        "docs/module-4-isaac/04-mapping-navigation.md"
+      ],
+      "description": "Learn about Soon"
+    },
+    "Temporary": {
+      "chapters": [
+        "docs/module-3-simulation/01-why-simulation-first.md",
+        "docs/module-3-simulation/02-physics-digital-twins.md",
+        "docs/module-3-simulation/03-simulated-sensors.md",
+        "docs/module-3-simulation/04-tools-landscape.md",
+        "docs/module-4-isaac/01-why-better-simulation.md",
+        "docs/module-4-isaac/02-isaac-sim-overview.md",
+        "docs/module-4-isaac/03-isaac-ros-pipelines.md",
+        "docs/module-4-isaac/04-mapping-navigation.md"
+      ],
+      "description": "Learn about Temporary"
     },
     "Simulation & Digital Twins": {
       "chapters": [

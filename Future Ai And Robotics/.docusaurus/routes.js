@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug',
+    component: ComponentCreator('/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug', '255'),
+    exact: true
+  },
+  {
+    path: '/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/config',
+    component: ComponentCreator('/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/config', '942'),
+    exact: true
+  },
+  {
+    path: '/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/content',
+    component: ComponentCreator('/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/content', 'cb3'),
+    exact: true
+  },
+  {
+    path: '/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/globalData',
+    component: ComponentCreator('/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/globalData', 'e36'),
+    exact: true
+  },
+  {
+    path: '/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/metadata',
+    component: ComponentCreator('/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/metadata', 'b16'),
+    exact: true
+  },
+  {
+    path: '/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/registry',
+    component: ComponentCreator('/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/registry', '56e'),
+    exact: true
+  },
+  {
+    path: '/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/routes',
+    component: ComponentCreator('/book_with_rag_agent_with_speckitPlus_live/__docusaurus/debug/routes', 'c1c'),
+    exact: true
+  },
+  {
     path: '/book_with_rag_agent_with_speckitPlus_live/blog',
     component: ComponentCreator('/book_with_rag_agent_with_speckitPlus_live/blog', '579'),
     exact: true

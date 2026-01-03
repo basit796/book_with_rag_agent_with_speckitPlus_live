@@ -33,7 +33,7 @@ def build_index():
         print("❌ Error: No chunks created")
         return
     
-    print(f"✅ Created {len(chunks)} chunks")
+    print(f"Created {len(chunks)} chunks")
     
     # Step 2: Generate embeddings
     print("\nStep 2: Generating embeddings...")
@@ -44,7 +44,7 @@ def build_index():
         print(f"❌ Warning: Embedding count ({len(embeddings)}) != chunk count ({len(chunks)})")
         return
     
-    print(f"✅ Generated {len(embeddings)} embeddings")
+    print(f"Generated {len(embeddings)} embeddings")
     
     # Step 3: Store in FAISS
     print("\nStep 3: Storing in FAISS vector database...")
@@ -56,7 +56,7 @@ def build_index():
         store.reset()
     
     store.add_chunks(chunks, embeddings)
-    print(f"✅ FAISS index built with {store.count()} chunks")
+    print(f"FAISS index built with {store.count()} chunks")
     
     # Step 4: Generate metadata
     print("\nStep 4: Generating metadata files...")
@@ -72,7 +72,7 @@ def build_index():
     print(f"  - Total words: {summary['total_words']:,}")
     print(f"  - FAISS index size: {store.count()} vectors")
     print(f"  - Unique topics: {len(topic_index['topics'])}")
-    print(f"\n✅ Vector database and metadata ready!")
+    print(f"\nVector database and metadata ready!")
 
 
 if __name__ == "__main__":

@@ -43,6 +43,7 @@ def vector_search_tool(query: str, top_k: int = 5) -> Dict[str, Any]:
         # Search vector database
         store = FAISSVectorStore()
         results = store.search_similar(query_embedding, top_k=top_k)
+        # print("results : ",results)
         
         # Format results
         formatted_results = {
@@ -59,6 +60,8 @@ def vector_search_tool(query: str, top_k: int = 5) -> Dict[str, Any]:
                 "module": metadata.get("module_name", "Unknown"),
                 "score": result.get("similarity_score", 0.0)
             })
+
+        # print("formatted : ",formatted_results)
         
         return formatted_results
         
@@ -260,7 +263,8 @@ if __name__ == "__main__":
     
     # Test 1: Vector search
     print("1. Testing vector_search_tool...")
-    result = vector_search_tool("What is physical AI?", top_k=3)
+    result = vector_search_tool("Robots Need Middleware?", top_k=3)
+    print("result : ",result)
     print(f"   Found {len(result.get('results', []))} results")
     if result.get('results'):
         print(f"   Top result from: {result['results'][0]['source']}")
@@ -268,14 +272,17 @@ if __name__ == "__main__":
     # Test 2: Citation
     print("\n2. Testing citation_tool...")
     citation = citation_tool("docs/module-1-physical-ai/01-what-is-physical-ai.md")
+    print("citation : ",citation)
     print(f"   Citation: {citation.get('citation', 'N/A')}")
     
     # Test 3: Metadata queries
     print("\n3. Testing metadata_query_tool...")
     modules = metadata_query_tool("list_modules")
+    print("   Modules : ",modules)
     print(f"   Found {len(modules.get('modules', []))} modules")
     
     stats = metadata_query_tool("book_stats")
     print(f"   Book stats: {stats.get('statistics', {}).get('total_chapters', 0)} chapters")
+    print("stats : ",stats )
     
     print("\n✅ All tool tests completed!")

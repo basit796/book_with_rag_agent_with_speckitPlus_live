@@ -31,13 +31,18 @@
           "title": "The Physical World as a Constraint",
           "file_path": "docs/module-1-physical-ai/02-physical-constraints.md",
           "topics": [
-            "Coming",
-            "Overview",
-            "Placeholder",
-            "Soon",
-            "Temporary"
+            "Act",
+            "Actuation",
+            "Cameras",
+            "Cascading",
+            "Closed",
+            "Comes",
+            "Communication",
+            "Continuous",
+            "Control",
+            "Delays"
           ],
-          "word_count": 97
+          "word_count": 1385
         },
         {
           "id": "03-robot-architecture",
@@ -45,13 +50,18 @@
           "title": "Anatomy of a Robot",
           "file_path": "docs/module-1-physical-ai/03-robot-architecture.md",
           "topics": [
-            "Coming",
-            "Overview",
-            "Placeholder",
-            "Soon",
-            "Temporary"
+            "ACT",
+            "AI",
+            "AI Model",
+            "AI System",
+            "Act",
+            "Action",
+            "Actuators",
+            "Battery Capacity",
+            "Brain",
+            "Buses"
           ],
-          "word_count": 93
+          "word_count": 1029
         },
         {
           "id": "04-why-humanoids",
@@ -59,16 +69,21 @@
           "title": "Why Humanoids?",
           "file_path": "docs/module-1-physical-ai/04-why-humanoids.md",
           "topics": [
-            "Coming",
-            "Overview",
-            "Placeholder",
-            "Soon",
-            "Temporary"
+            "Acceptance",
+            "Agility Robotics Digit",
+            "Ahead",
+            "Alternatives",
+            "Anthropomorphism",
+            "Application",
+            "Arm",
+            "Assistance",
+            "Avoid realism",
+            "Balance and Locomotion"
           ],
-          "word_count": 89
+          "word_count": 1354
         }
       ],
-      "word_count": 1331
+      "word_count": 4820
     },
     {
       "id": "module-2-ros2",
@@ -82,13 +97,18 @@
           "title": "Why Robots Need Middleware",
           "file_path": "docs/module-2-ros2/01-why-middleware.md",
           "topics": [
-            "Coming",
-            "Overview",
-            "Placeholder",
-            "Soon",
-            "Temporary"
+            "Act",
+            "Camera Driver",
+            "Complexity",
+            "Compute",
+            "Discovery",
+            "Inter-process communication",
+            "Just",
+            "Message serialization",
+            "Middleware",
+            "Motor Controller"
           ],
-          "word_count": 93
+          "word_count": 341
         },
         {
           "id": "02-architecture",
@@ -96,13 +116,18 @@
           "title": "ROS 2 Architecture",
           "file_path": "docs/module-2-ros2/02-architecture.md",
           "topics": [
-            "Coming",
-            "Overview",
-            "Placeholder",
-            "Soon",
-            "Temporary"
+            "Actions",
+            "Communication",
+            "Computational",
+            "Concepts",
+            "Core",
+            "DDS",
+            "Files",
+            "Foundation",
+            "Graph",
+            "Launch"
           ],
-          "word_count": 91
+          "word_count": 312
         },
         {
           "id": "03-communication-patterns",
@@ -110,13 +135,18 @@
           "title": "Communication Patterns",
           "file_path": "docs/module-2-ros2/03-communication-patterns.md",
           "topics": [
-            "Coming",
-            "Overview",
-            "Placeholder",
-            "Soon",
-            "Temporary"
+            "Actions",
+            "Calls",
+            "Characteristics",
+            "Data",
+            "Deadline",
+            "Durability",
+            "Dynamic reconfigure",
+            "Feedback",
+            "History",
+            "Library"
           ],
-          "word_count": 89
+          "word_count": 461
         },
         {
           "id": "04-python-integration",
@@ -124,16 +154,21 @@
           "title": "Python Agents and ROS",
           "file_path": "docs/module-2-ros2/04-python-integration.md",
           "topics": [
-            "Coming",
-            "Overview",
-            "Placeholder",
-            "Soon",
-            "Temporary"
+            "AI",
+            "Avoid blocking",
+            "Best",
+            "Creating",
+            "Descriptive names",
+            "Integrating",
+            "Integration",
+            "Key components",
+            "Logging",
+            "Models"
           ],
-          "word_count": 93
+          "word_count": 271
         }
       ],
-      "word_count": 366
+      "word_count": 1385
     },
     {
       "id": "module-3-simulation",
@@ -268,6 +303,5 @@
   ],
   "total_chapters": 16,
   "total_modules": 4,
-  "total_words": 2437,
-  "total_chunks": 93
+  "total_words": 6945
 }

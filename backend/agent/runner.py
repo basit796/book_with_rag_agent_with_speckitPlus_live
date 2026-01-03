@@ -151,6 +151,7 @@ if __name__ == "__main__":
     # Test 1: Single query
     print("1. Single Query Test")
     result = runner.run("What is physical AI?")
+    print("result:  ", result)
     print(f"   Response length: {len(result['response'])} chars")
     print(f"   Sources: {len(result.get('sources', []))}")
     print(f"   Conversation ID: {result.get('conversation_id')}")
