@@ -214,7 +214,7 @@ Building capable humanoids remains extremely difficult:
 
 **Power**: Batteries limit runtime to 1-4 hours; continuous operation requires frequent recharging.
 
-**Cost**: Current humanoids cost $50K-$500K. Mass adoption requires <$20K price point.
+**Cost**: Current humanoids cost $50K-$500K. Mass adoption requires &lt;$20K price point.
 
 **Safety**: 50+ kg humanoid moving at 1 m/s carries significant momentum. Safe human interaction is critical.
 

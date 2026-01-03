@@ -1,7 +1,7 @@
 {
   "id": "module-2-ros2/communication-patterns",
   "title": "Communication Patterns",
-  "description": "Overview",
+  "description": "Topics: Streaming Data",
   "source": "@site/docs/module-2-ros2/03-communication-patterns.md",
   "sourceDirName": "module-2-ros2",
   "slug": "/module-2-ros2/communication-patterns",

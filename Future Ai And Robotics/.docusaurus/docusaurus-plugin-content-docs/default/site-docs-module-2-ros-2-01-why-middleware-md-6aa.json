@@ -1,7 +1,7 @@
 {
   "id": "module-2-ros2/why-middleware",
   "title": "Why Robots Need Middleware",
-  "description": "Overview",
+  "description": "The Complexity of Robot Software",
   "source": "@site/docs/module-2-ros2/01-why-middleware.md",
   "sourceDirName": "module-2-ros2",
   "slug": "/module-2-ros2/why-middleware",

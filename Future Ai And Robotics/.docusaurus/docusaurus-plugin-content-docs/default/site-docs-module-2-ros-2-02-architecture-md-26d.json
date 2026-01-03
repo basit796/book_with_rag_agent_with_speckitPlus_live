@@ -1,7 +1,7 @@
 {
   "id": "module-2-ros2/architecture",
   "title": "ROS 2 Architecture",
-  "description": "Overview",
+  "description": "Core Concepts",
   "source": "@site/docs/module-2-ros2/02-architecture.md",
   "sourceDirName": "module-2-ros2",
   "slug": "/module-2-ros2/architecture",

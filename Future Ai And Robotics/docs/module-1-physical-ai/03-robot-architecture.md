@@ -103,7 +103,7 @@ Different tasks require different loop speeds:
 - Motor torque control
 - Balance control for bipeds
 - Collision reaction
-- Real-time: <10 ms latency requirement
+- Real-time: &lt;10 ms latency requirement
 
 **Medium-Frequency (10-100 Hz)**:
 - Vision-based tracking

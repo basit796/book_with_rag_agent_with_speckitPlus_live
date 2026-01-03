@@ -1,7 +1,7 @@
 {
   "id": "module-1-physical-ai/robot-architecture",
   "title": "Anatomy of a Robot",
-  "description": "Overview",
+  "description": "The Three Core Components",
   "source": "@site/docs/module-1-physical-ai/03-robot-architecture.md",
   "sourceDirName": "module-1-physical-ai",
   "slug": "/module-1-physical-ai/robot-architecture",

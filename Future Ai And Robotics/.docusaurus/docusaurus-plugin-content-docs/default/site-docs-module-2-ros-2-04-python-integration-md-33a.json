@@ -1,7 +1,7 @@
 {
   "id": "module-2-ros2/python-integration",
   "title": "Python Agents and ROS",
-  "description": "Overview",
+  "description": "Why Python for Robotics?",
   "source": "@site/docs/module-2-ros2/04-python-integration.md",
   "sourceDirName": "module-2-ros2",
   "slug": "/module-2-ros2/python-integration",
